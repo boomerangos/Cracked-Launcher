@@ -1,7 +1,7 @@
 # Cracked-Launcher
-only for Raspberry Pi 4
-username can be anything you want
-password is raspberry
+This is only for use on the Raspberry Pi 4.  
+The username can be anything you want.  
+The password is raspberry.  
 This will alow you to play Minecraft in offline mode for free and be able to join servers that have the option cracked enabled
 ## To install:
 ```
